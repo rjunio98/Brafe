@@ -1,0 +1,40 @@
+@media only screen and (max-width: 739px){
+	.container{
+		max-width: 300px;
+		flex-direction: column;
+	}
+	.menu-nav,
+	.menu-log{
+		margin: 0;
+	}
+	.menu-nav ul li a{
+		padding-left: 0;
+	}
+	.intro{
+		padding: 60px 0;
+	}
+
+	.sobre-item{
+		margin: 0;
+	}
+
+	.locais-img, .locais-info{
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.produtos-item{
+		margin-left: 0;
+		margin-right: 0;
+	}
+
+	.assine-info{
+		margin: 0 0 20px 0;
+	}
+	.assine form{
+		margin: 0;
+	}
+	.footer-img, .footer p{
+		margin: 10px 0;
+	}
+}
