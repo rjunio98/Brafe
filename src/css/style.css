@@ -164,6 +164,13 @@ h2.produtos-mineiro::before {
 	margin: 20px auto 0 auto;
 }
 
+.produtos-btn:hover {
+	color: #fff;
+	background-color: #492901;
+	border-radius: 10px;
+	transition: ease-in 0.3s;
+}
+
 .locais{
 	padding: 60px 0;
 }
