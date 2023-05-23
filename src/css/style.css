@@ -203,6 +203,7 @@ h2.produtos-mineiro::before {
 	color: #fff;
 	background-color: #492901;
 	transition: ease-in 0.3s;
+	border-radius: 0.4em;
 }
 
 .assine {
